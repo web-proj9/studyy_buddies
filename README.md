@@ -90,6 +90,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Thanks to everyone who contributed to this project and made StudyBuddy a reality!
 
----
-
-Feel free to customize this README further based on your project specifics!
